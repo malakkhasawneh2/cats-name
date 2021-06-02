@@ -1,0 +1,5 @@
+alert ('Welcom to my CatsPage')
+var catanswer=prompt("which name of cat do you know?")
+alert ('you know'+ catanswer)
+document.write('<h5>'+ catanswer +'</h5>')
+document.write('<div>'+'hello'+"</div>")
